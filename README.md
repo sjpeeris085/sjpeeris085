@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjaya J Peeris, from Sri Lanka. I have been following the standard principle of s/w engineering to provide stunning deliverables.
 - 👀 I’m interested in developing software solutions and team leading
-- 🌱 I’m currently working as a S/W Developer
+- 🌱 I’m currently working as a Software Engineer
 - 📫 How to reach me ... sjpeeris.sl@gmail.com
 
 <!---
