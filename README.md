@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
             src="https://user-images.githubusercontent.com/66549526/146373601-4243c46a-c60b-4d13-8655-9e8472439b94.png"
             data-canonical-src="https://img.icons8.com/color/22/000000/linkedin.png" style="max-width: 100%;"></a>
   
-   <a href="https://angular.io/" rel="nofollow"><img align="left" alt="Pradip Debnath | LinkedIn"
+   <a href="https://reactnative.dev/" rel="nofollow"><img align="left" alt="Pradip Debnath | LinkedIn"
             width="32px"
             src="https://user-images.githubusercontent.com/66549526/146378792-11871e58-4ecc-4eb2-986b-f225238849cf.png"
             data-canonical-src="https://img.icons8.com/color/22/000000/linkedin.png" style="max-width: 100%;"></a>
