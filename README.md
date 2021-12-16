@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
  
  <p dir="auto"><a href="https://www.pradipdebnath.com/" rel="nofollow"><img align="left" alt="www.PradipDebnath.com"
-            width="22px"
+            width="52px"
             src="https://user-images.githubusercontent.com/66549526/134301179-b1eba614-1f85-4d3e-99fd-2d983041bfb0.png"
             data-canonical-src="https://img.icons8.com/ultraviolet/22/000000/domain.png" style="max-width: 100%;"></a>
     <a href="https://youtube.com/itzpradip" rel="nofollow"><img align="left" alt="Pradip Debnath | YouTube" width="22px"
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
             src="https://camo.githubusercontent.com/24421a907817e860fc91246fd6385baa30d3fe63cf3f94fc8bbc24acc10786b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f32322f3030303030302f747769747465722e706e67"
             data-canonical-src="https://img.icons8.com/fluent/22/000000/twitter.png" style="max-width: 100%;"></a>
     <a href="https://linkedin.com/in/itzpradip" rel="nofollow"><img align="left" alt="Pradip Debnath | LinkedIn"
-            width="22px"
+            width="52px"
             src="https://camo.githubusercontent.com/9789284af01817fe8f1a5965c0b4f58b5fbb5ebfc235356db85abe27e696b366/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32322f3030303030302f6c696e6b6564696e2e706e67"
             data-canonical-src="https://img.icons8.com/color/22/000000/linkedin.png" style="max-width: 100%;"></a>
     <a href="https://facebook.com/itzpradip" rel="nofollow"><img align="left" alt="Pradip Debnath | Facebook"
