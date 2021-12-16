@@ -50,9 +50,9 @@ You can click the Preview link to take a look at your changes.
             src="https://user-images.githubusercontent.com/66549526/134301179-b1eba614-1f85-4d3e-99fd-2d983041bfb0.png"
             data-canonical-src="https://img.icons8.com/ultraviolet/22/000000/domain.png" style="max-width: 100%;"></a>
     <a href="https://youtube.com/itzpradip" rel="nofollow"><img align="left" alt="Pradip Debnath | YouTube" width="22px"
-            src="https://camo.githubusercontent.com/a51a45af54326f3761b4ef2c21a91200a47b5058a666efd0b664a7e0c181f6ca/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32322f3030303030302f796f75747562652d706c61792e706e67"
+            src="https://user-images.githubusercontent.com/66549526/134299607-754b3dcb-92da-4e91-a661-bbe8c419221a.png"
             data-canonical-src="https://img.icons8.com/color/22/000000/youtube-play.png" style="max-width: 100%;"></a>
-    <a href="https://twitter.com/itzpradip" rel="nofollow"><img align="left" alt="itzpradip | Twitter" width="22px"
+    <a href="https://twitter.com/itzpradip" rel="nofollow"><img align="left" alt="itzpradip | Twitter" width="32px"
             src="https://camo.githubusercontent.com/24421a907817e860fc91246fd6385baa30d3fe63cf3f94fc8bbc24acc10786b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f32322f3030303030302f747769747465722e706e67"
             data-canonical-src="https://img.icons8.com/fluent/22/000000/twitter.png" style="max-width: 100%;"></a>
     <a href="https://linkedin.com/in/itzpradip" rel="nofollow"><img align="left" alt="Pradip Debnath | LinkedIn"
