@@ -51,7 +51,6 @@ You can click the Preview link to take a look at your changes.
   
   </p>
   
-![2021_Facebook_icon svg](https://user-images.githubusercontent.com/66549526/146379907-a6ebf8d5-dfbb-450a-8f5c-9901620dadd1.png)
 
 
 
