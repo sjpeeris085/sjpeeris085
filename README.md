@@ -8,7 +8,7 @@ sjpeeris085/sjpeeris085 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 style="color:red">Languages and Tools<h3>
+<h3>:hammer_and_wrench: Languages and Tools<h3>
  
 <p>
  
