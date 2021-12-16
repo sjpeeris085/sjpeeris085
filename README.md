@@ -9,22 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>:hammer_and_wrench: Languages and Tools<h3>
- 
-<p dir="auto">
- 
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img width="80px" src="https://user-images.githubusercontent.com/66549526/134299607-754b3dcb-92da-4e91-a661-bbe8c419221a.png"/> </a> 
- 
-<a href="https://spring.io/projects/spring-boot"> <img width="80px" src="https://user-images.githubusercontent.com/66549526/134301179-b1eba614-1f85-4d3e-99fd-2d983041bfb0.png"/> </a> 
- 
-<a href="https://nodejs.org/en/about/"> <img width="80px" src="https://user-images.githubusercontent.com/66549526/146373377-8aadaa96-7d62-411e-9e4b-c33af9eeebc1.png"/> </a>
- 
-<a href="https://angular.io/"> <img width="80px" src="https://user-images.githubusercontent.com/66549526/146373601-4243c46a-c60b-4d13-8655-9e8472439b94.png"/> </a>
-
-</p>
- 
 
  <p dir="auto">
-    <a href="https://www.pradipdebnath.com/" rel="nofollow"><img align="left" alt="www.PradipDebnath.com"
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img align="left" alt="www.PradipDebnath.com"
             width="52px"
             src="https://user-images.githubusercontent.com/66549526/134299607-754b3dcb-92da-4e91-a661-bbe8c419221a.png"
             data-canonical-src="https://img.icons8.com/ultraviolet/22/000000/domain.png" style="max-width: 100%;"></a>
@@ -33,15 +20,14 @@ You can click the Preview link to take a look at your changes.
             src="https://user-images.githubusercontent.com/66549526/134301179-b1eba614-1f85-4d3e-99fd-2d983041bfb0.png"
             data-canonical-src="https://img.icons8.com/color/22/000000/youtube-play.png" style="max-width: 100%;"></a>
    
-  <a href="https://nodejs.org/en/about/" rel="nofollow"><img align="left" alt="itzpradip | Twitter" width="32px"
+  <a href="https://nodejs.org/en/about/" rel="nofollow"><img align="left" alt="itzpradip | Twitter" width="52px"
         src="https://user-images.githubusercontent.com/66549526/146373377-8aadaa96-7d62-411e-9e4b-c33af9eeebc1.png"
             data-canonical-src="https://img.icons8.com/fluent/22/000000/twitter.png" style="max-width: 100%;"></a>
    
   <a href="https://angular.io/" rel="nofollow"><img align="left" alt="Pradip Debnath | LinkedIn"
-            width="52px"
+            width="32px"
             src="https://user-images.githubusercontent.com/66549526/146373601-4243c46a-c60b-4d13-8655-9e8472439b94.png"
             data-canonical-src="https://img.icons8.com/color/22/000000/linkedin.png" style="max-width: 100%;"></a>
-    
 </p>
 
 
