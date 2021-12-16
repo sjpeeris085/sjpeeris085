@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
             data-canonical-src="https://img.icons8.com/color/22/000000/linkedin.png" style="max-width: 100%;"></a>
   
    <a href="https://www.java.com/en/download/help/whatis_java.html" rel="nofollow"><img align="left" alt="Pradip Debnath | LinkedIn"
-            width="42px"
+            width="22px"
             src="https://user-images.githubusercontent.com/66549526/146379285-c708cc64-620d-465a-a631-51562f2d19a4.png"
             data-canonical-src="https://img.icons8.com/color/22/000000/linkedin.png" style="max-width: 100%;"></a>
 
