@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 style="color:red">Languages and Tools<h3>
  
-<div style="display: inline">
+<p>
  
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img width="80px" src="https://user-images.githubusercontent.com/66549526/134299607-754b3dcb-92da-4e91-a661-bbe8c419221a.png"/> </a> 
  
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
  
 <a href="https://angular.io/"> <img width="80px" src="https://user-images.githubusercontent.com/66549526/146373601-4243c46a-c60b-4d13-8655-9e8472439b94.png"/> </a>
 
-</div>
+</p>
 
 
 
