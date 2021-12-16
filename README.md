@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <p dir="auto">
  <code>
  <a target="_blank" rel="noopener noreferrer" href="https://angular.io/">
-  <img alt="HTML5" width="350px" src="https://user-images.githubusercontent.com/66549526/146373601-4243c46a-c60b-4d13-8655-9e8472439b94.png" style="max-width: 100%;">  </a>
+  <img alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/66549526/146373601-4243c46a-c60b-4d13-8655-9e8472439b94.png" style="max-width: 100%;">  </a>
  </code>
  
   <code>
