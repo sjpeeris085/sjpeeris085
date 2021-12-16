@@ -42,7 +42,8 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
-
+ <br>
+  <br>
  
  <h3>:handshake:	 Connect with me: <h3>
    <p dir="auto">
