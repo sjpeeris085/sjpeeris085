@@ -22,12 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 </p>
  
- <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<a href="https://www.youtube.com/playlist?list=PLQWFhX-gwJblNXe9Fj0WomT0aWKqoDQ-h" rel="nofollow"><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLQWFhX-gwJbkq4pqvzmSiBrKndlwM-cNh" rel="nofollow"><img alt="Flutter" width="26px" src="https://camo.githubusercontent.com/c5f82392bbb0649ba45e7f625e0deed44a5e5dfcdf7145915175db2d604275ea/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32362f3030303030302f666c75747465722e706e67" data-canonical-src="https://img.icons8.com/color/26/000000/flutter.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLQWFhX-gwJbkX54Rzmj0y2t3l9_HJ2a-r" rel="nofollow"><img alt="WordPress" width="26px" src="https://camo.githubusercontent.com/55b1425e497ba215bdb9295cba01fbd65830bd08919f310e4394799f9543b0b8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32362f3030303030302f776f726470726573732e706e67" data-canonical-src="https://img.icons8.com/color/26/000000/wordpress.png" style="max-width: 100%;"></a></p>
+<p dir="auto">
+ <code>
+ <a target="_blank" rel="noopener noreferrer" href="https://angular.io/">
+  <img alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/66549526/146373601-4243c46a-c60b-4d13-8655-9e8472439b94.png" style="max-width: 100%;">  </a>
+ </code>
+</p>
 
 
 
